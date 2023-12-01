@@ -1,4 +1,4 @@
-# calculator_compiler
+# Lex Yacc Calculator Compiler
 Lex and Yacc calculator compiler, performing lexical analysis and Yacc compilation
 ## Installation
 Initial files are calc.lex and calc.yacc. 
