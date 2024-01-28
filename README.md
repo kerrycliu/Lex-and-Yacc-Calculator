@@ -1,5 +1,7 @@
 # Lex Yacc Calculator Compiler
-Lex and Yacc calculator compiler, performing lexical analysis and Yacc compilation
+Lex and Yacc calculator compiler, performing lexical analysis and Yacc compilation.
+Original code from: https://www.ibm.com/docs/en/zos/2.3.0?topic=tools-tutorial-using-lex-yacc. 
+
 ## Installation
 Initial files are calc.lex and calc.yacc. 
 ```
